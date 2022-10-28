@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+src/.DS_Store
+Week 1 - To Do App/.DS_Store
+Aula 1 - To Do App/.DS_Store
+.DS_Store
